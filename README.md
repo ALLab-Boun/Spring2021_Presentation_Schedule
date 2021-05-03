@@ -7,3 +7,4 @@ Schedule for Weekly Presentations
 | 12.04.2021      | Burak Kurutmaz      | Certified Robustness |
 | 19.04.2021      | Duygu Serbes      | Methodology of Mixup |
 | 26.04.2021      | Deniz Sezin Ayvaz      | Latent Space Manipulation |
+| 03.05.2021      | Kaan Kara      | Irregularly Sampled Time Series |
