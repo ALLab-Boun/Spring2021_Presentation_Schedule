@@ -9,3 +9,4 @@ Schedule for Weekly Presentations
 | 26.04.2021      | Deniz Sezin Ayvaz      | Latent Space Manipulation |
 | 03.05.2021      | Kaan Kara      | Irregularly Sampled Time Series |
 | 17.05.2021      | Ezgi Paket     | Adversarial Face Attacks |
+| 25.05.2021      | İpek Erdoğan     | Signer Independence in Sign Language Recognition |
