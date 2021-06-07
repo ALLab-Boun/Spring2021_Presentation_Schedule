@@ -10,3 +10,5 @@ Schedule for Weekly Presentations
 | 03.05.2021      | Kaan Kara      | Irregularly Sampled Time Series |
 | 17.05.2021      | Ezgi Paket     | Adversarial Face Attacks |
 | 25.05.2021      | İpek Erdoğan     | Signer Independence in Sign Language Recognition |
+| 07.06.2021      | Barış Başmak - Buse Kabakoğlu     | Federated Learning |
+| 14.06.2021      | Ege Onur Taga    | Model Complexity, Bias, Variance |
